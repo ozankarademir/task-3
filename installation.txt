@@ -1,0 +1,6 @@
+npm init
+npm axios
+npm i axios
+npm i chai
+npm i mocha
+mkdir test
